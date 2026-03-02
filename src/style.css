@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 /* @theme {
   --default-font-family: "Inter", sans-serif;
 
@@ -512,8 +514,6 @@ body {
   display: block;
 }
 
-===================================+++
-
 /* Section */
 .course-module-section {
   position: relative;
@@ -709,4 +709,3 @@ body {
 }
 
 
-@import "tailwindcss";
